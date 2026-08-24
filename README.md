@@ -4,9 +4,9 @@
 
 <p align="left">
   <a href="https://github.com/YogirajXD"><img src="https://img.shields.io/badge/GitHub-YogirajXD-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/yogirajsinh-bhosale-296865257"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:byogiraj455@gmail.com"><img src="https://img.shields.io/badge/Email-byogiraj455%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-Website-FF7B00?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/YogirajXD/YogirajXD/blob/main/Yogiraj_Bhosale_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-FF7B00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
@@ -35,47 +35,27 @@ I am an early-career IT developer focused on building practical, reliable AI/ML 
 
 ## 🚀 Featured Projects
 
-### 01. [SiteGuard Surveillance AI](https://github.com/YogirajXD/[PROJECT_REPO_NAME])
+### 01. [SiteGuard Surveillance AI](https://github.com/YogirajXD/SiteGuard-Surveillance-AI)
 > Computer vision-based surveillance system designed for real-time safety compliance monitoring on construction sites.
-- **Key Highlights:** Automated detection of safety helmets and reflective vests; real-time video stream processing and hazard flagging.
+- **Key Highlights:** Automated detection of safety helmets and reflective vests; real-time video stream processing and safety compliance monitoring.
 - **Tech Stack:** `Python`, `YOLO`, `OpenCV`
-- **Performance / Metric:** `[ADD ACCURACY / mAP / FPS METRIC]`
-- 🔗 **Links:** [Source Code](https://github.com/YogirajXD/[PROJECT_REPO_NAME]) • [Demo Video / Live Demo]([ADD DEMO LINK])
+- 🔗 **Links:** [Repository](https://github.com/YogirajXD/SiteGuard-Surveillance-AI) • [Simulation Tool](https://github.com/YogirajXD/SiteGuard-Simulation)
 
 ---
 
-### 02. [Truscan / Fake News Detection](https://github.com/YogirajXD/[PROJECT_REPO_NAME])
-> Natural Language Processing solution designed to classify and detect misleading or unverified news articles.
-- **Key Highlights:** Text preprocessing pipelines, tokenization, feature extraction (TF-IDF / Embeddings), and supervised classification.
-- **Tech Stack:** `Python`, `Scikit-learn`, `NLP`, `Pandas`
-- **Performance / Metric:** `[ADD ACCURACY / F1-SCORE]`
-- 🔗 **Links:** [Source Code](https://github.com/YogirajXD/[PROJECT_REPO_NAME]) • [Demo]([ADD DEMO LINK])
+### 02. [Truscan / Fake News Detection](https://github.com/YogirajXD/Fake-news-detection-Truscan)
+> Natural Language Processing solution using BERT transformer modeling to classify news articles and detect misleading information.
+- **Key Highlights:** Text preprocessing pipelines, tokenization, contextual semantic embeddings, and automated real vs. fake news classification.
+- **Tech Stack:** `Python`, `NLP`, `BERT`, `Scikit-learn`, `Pandas`
+- 🔗 **Links:** [Repository](https://github.com/YogirajXD/Fake-news-detection-Truscan)
 
 ---
 
-### 03. [Olympic Dataset Analysis](https://github.com/YogirajXD/[PROJECT_REPO_NAME])
-> In-depth exploratory data analysis (EDA) examining historical trends, athlete demographics, and medal distributions across games.
-- **Key Highlights:** Large-scale data cleaning, multidimensional aggregation, trend identification, and visual data storytelling.
-- **Tech Stack:** `Python`, `Pandas`, `NumPy`, `Data Visualization`
-- 🔗 **Links:** [Source Code](https://github.com/YogirajXD/[PROJECT_REPO_NAME]) • [Analysis Report / Dashboard]([ADD DEMO LINK])
-
----
-
-### 04. [Password Manager](https://github.com/YogirajXD/[PROJECT_REPO_NAME])
-> Web application for secure credential management implementing modern authentication and security best practices.
-- **Key Highlights:** Master password hashing, secure credential storage, intuitive interface, and authenticated user sessions.
-- **Tech Stack:** `JavaScript`, `Node.js`, `HTML/CSS`, `SQL`
-- 🔗 **Links:** [Source Code](https://github.com/YogirajXD/[PROJECT_REPO_NAME]) • [Live Demo]([ADD DEMO LINK])
-
----
-
-## ⚡ Currently Building
-
-### 🤖 Autonomous Agentic Recommendation System `[In Progress]`
-Developing an Agentic AI workflow capable of capturing nuanced user preferences, autonomously querying and retrieving relevant information from the web, evaluating options against multiple criteria, and generating context-aware recommendations with transparent reasoning.
-
-- **Focus:** AI Agents, Tool Calling, Web Search Integration, LLM Orchestration
-- **Current Stage:** Workflow planning and tool-calling integration prototyping
+### 03. [Olympic Dataset Analysis & Dashboard](https://github.com/YogirajXD/Olympic-EDA-dashboard)
+> In-depth exploratory data analysis and interactive dashboard examining 120 years of Olympic history, athlete demographics, and medal distributions.
+- **Key Highlights:** Large-scale data cleaning, multidimensional aggregation, statistical trend identification, and interactive visualizations.
+- **Tech Stack:** `Python`, `Pandas`, `NumPy`, `Data Visualization`, `Streamlit`
+- 🔗 **Links:** [EDA Dashboard Repo](https://github.com/YogirajXD/Olympic-EDA-dashboard) • [Dataset Analysis Notebook](https://github.com/YogirajXD/EDA-on-120-years-of-olympic-dataset)
 
 ---
 
@@ -99,9 +79,8 @@ Developing an Agentic AI workflow capable of capturing nuanced user preferences,
 ## 📫 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/yogirajsinh-bhosale-296865257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/YogirajXD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:byogiraj455@gmail.com"><img src="https://img.shields.io/badge/Email-FF7B00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="[ADD RESUME LINK]"><img src="https://img.shields.io/badge/Resume-4A154B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/YogirajXD/YogirajXD/blob/main/Yogiraj_Bhosale_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4A154B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
 </p>
