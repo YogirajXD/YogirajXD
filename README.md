@@ -67,15 +67,6 @@ I am an early-career IT developer focused on building practical, reliable AI/ML 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogirajXD&show_icons=true&bg_color=0D1117&title_color=FF7B00&icon_color=FF7B00&text_color=C9D1D9&border_color=30363D" alt="Yogiraj's GitHub Stats" width="48.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogirajXD&layout=compact&bg_color=0D1117&title_color=FF7B00&text_color=C9D1D9&border_color=30363D" alt="Top Languages" width="48.5%" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
