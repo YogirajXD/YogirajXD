@@ -65,7 +65,7 @@ I am an early-career IT developer focused on building practical, reliable AI/ML 
 - 💻 **Software Engineering:** Advanced Python design patterns, Data Structures & Algorithms (DSA).
 - 🔬 **Applied Machine Learning:** Scalable model evaluation, inference optimization, and production pipelines.
 
----
+--- 
 
 ## 📫 Connect With Me
 
