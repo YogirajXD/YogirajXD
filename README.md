@@ -13,7 +13,7 @@
 
 ## 📌 About Me
 
-I am an early-career IT developer focused on building practical, reliable AI/ML and data-driven software solutions. My work spans from exploratory data analysis and baseline modeling to deploying functional computer vision and NLP systems.
+I am an early-career IT Engineer focused on building practical, reliable AI/ML and data-driven software solutions. My work spans from exploratory data analysis and baseline modeling to deploying functional computer vision and NLP systems.
 
 - 🔭 **Core Interests:** Machine Learning, Computer Vision, Natural Language Processing, Agentic AI, and Software Engineering.
 - 💡 **Approach:** Practical implementation, clean architecture, and data-informed decision making.
