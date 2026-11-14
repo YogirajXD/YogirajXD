@@ -6,7 +6,7 @@
   <a href="https://github.com/YogirajXD"><img src="https://img.shields.io/badge/GitHub-YogirajXD-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/yogirajsinh-bhosale-296865257"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:byogiraj455@gmail.com"><img src="https://img.shields.io/badge/Email-byogiraj455%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/YogirajXD/YogirajXD/blob/main/Yogiraj_Bhosale_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-FF7B00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/YogirajXD/YogirajXD/blob/main/Yogiraj_Bhosale_Resume_Updated.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-FF7B00?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
